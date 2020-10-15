@@ -1,0 +1,17 @@
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\MyMicroservice.exe
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\MyMicroservice.deps.json
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\MyMicroservice.runtimeconfig.json
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\MyMicroservice.runtimeconfig.dev.json
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\MyMicroservice.dll
+C:\SampleApplications\Mircroservices\MyMicroservice\bin\Debug\netcoreapp3.1\MyMicroservice.pdb
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\MyMicroservice.csprojAssemblyReference.cache
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MyMicroservice.StaticWebAssets.Manifest.cache
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\MyMicroservice.StaticWebAssets.xml
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\MyMicroservice.AssemblyInfoInputs.cache
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\MyMicroservice.AssemblyInfo.cs
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\MyMicroservice.RazorTargetAssemblyInfo.cache
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\MyMicroservice.dll
+C:\SampleApplications\Mircroservices\MyMicroservice\obj\Debug\netcoreapp3.1\MyMicroservice.pdb
